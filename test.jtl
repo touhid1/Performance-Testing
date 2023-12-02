@@ -447,7 +447,7 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1701520450371,113,https://reqres.in/api/users/2,304,Not Modified,Thread Group 1-36,,true,,826,497,214,214,https://reqres.in/api/users/2,0,0,0
 1701520450017,467,https://reqres.in/api/users,201,Created,Thread Group 1-114,text,true,,929,498,214,214,https://reqres.in/api/users,467,0,0
 1701520450374,112,https://reqres.in/api/users/2,304,Not Modified,Thread Group 1-157,,true,,818,497,214,214,https://reqres.in/api/users/2,0,0,0
-1701520450016,470,https://reqres.in/api/users,201,Created,Thread Group 1-120,text,true,,929,498,214,214,https://reqres.in/api/users,470,0,0
+1701520450016,470,https://reqres.in/api/users,201,Created,Thread Group 1-120,text,true,,929,498,214,214,https://reqres.in/api/users,470,0,0 
 1701520450010,477,https://reqres.in/api/users/2,200,OK,Thread Group 1-38,text,true,,921,558,214,214,https://reqres.in/api/users/2,477,0,0
 1701520450027,460,https://reqres.in/api/users,201,Created,Thread Group 1-82,text,true,,930,498,214,214,https://reqres.in/api/users,460,0,0
 1701520450377,112,https://reqres.in/api/users/2,200,OK,Thread Group 1-76,text,true,,1186,445,214,214,https://reqres.in/api/users/2,112,0,0
